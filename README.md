@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mikael</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"><br>
+
+<p align="left"> 
+  Desenvolvedor <strong>Front-End</strong> apaixonado por tecnologia, buscando constantemente evoluir minhas habilidades. Objetivo é usar a tecnologia para transformar ideias em soluções impactantes e revolucionárias.<br>
+  
+  Atualmente estudo na EEEP Leonel de Moura Brizola e curso Redes integrado ao Ensino Médio.
+</p> 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikaelsouza-dev" alt="mikaelsouza-dev" /></a> </p>
 
 - 🔭 I am currently studying at **E.E.E.P Leonel de Moura Brizola**
