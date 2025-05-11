@@ -14,8 +14,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikaelsouza-dev" alt="mikaelsouza-dev" /></a> </p>
 
-- 🔭 I am currently studying at **E.E.E.P Leonel de Moura Brizola**
-
 - 👨‍💻 All of my projects are available at [https://github.com/mikaelsouza-dev](https://github.com/mikaelsouza-dev)
 
 - 📫 How to reach me **mikaelsouza.lmb@gmail.com**
